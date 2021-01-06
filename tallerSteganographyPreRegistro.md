@@ -15,6 +15,7 @@ de seguridad perimetral, veo de interés desarrollar una formación concentrada 
 
 Formación:
 - 8 horas de formación online (Webex)
+- Horario de impartición: Viernes (16:00-20:00) y Sábado (10:00 a 14:00) hora española. Los horarios podrán adaptarse en función de la localización de los alumnos.
 - 150 euros + IVA
 - Canal de telegram de alumnos
 - Documentación del curso y "paquete" de herramientas.
@@ -39,7 +40,7 @@ Esteganografía aplicada y canales encubiertos (covert channels). Protegiendo y 
 10. Esteganografía y malware. Stegomalware y polyglots
 11. Formación en stego
 
-Si estás interesado por favor rellenar el siguiente formulario -
+Si estás interesado por favor rellenar el siguiente formulario - https://forms.gle/oeXF27nXgr6WqNCh6
 
 Gracias :) @mindcrypt
 
