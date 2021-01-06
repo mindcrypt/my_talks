@@ -1,4 +1,4 @@
-# Pre-registro en el curso online de ESTEGANOGRAFIA APLICADA Y CANALES EN CUBIERTOS
+# Pre-registro en el curso online de ESTEGANOGRAFIA APLICADA Y CANALES ENCUBIERTOS
 
 Descripción
 
