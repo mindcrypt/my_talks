@@ -20,7 +20,7 @@ Formación:
 - Documentación del curso y "paquete" de herramientas.
 
 Fecha y condiciones: 
-- A anunciar en el primer semestre de 2021
+- Realización en el primer semestre de 2021 (aviso a los interesados)
 - Para su impartición será necesario un mínimo de 12 alumnos
 
 Detalle a alto nivel (índice orientativo)
@@ -37,5 +37,9 @@ Esteganografía aplicada y canales encubiertos (covert channels). Protegiendo y 
 8. Networks steganography y cover-channels
 9. Esteganografía en Internet y redes sociales
 10. Esteganografía y malware. Stegomalware y polyglots
-11. Formarse en stego
+11. Formación en stego
+
+Si estás interesado por favor rellenar el siguiente formulario -
+
+Gracias :) @mindcrypt
 
