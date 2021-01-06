@@ -40,7 +40,7 @@ Esteganografía aplicada y canales encubiertos (covert channels). Protegiendo y 
 10. Esteganografía y malware. Stegomalware y polyglots
 11. Formación en stego
 
-Si estás interesado por favor rellenar el siguiente formulario - https://forms.gle/oeXF27nXgr6WqNCh6
+Si estás interesad@ por favor rellenar el siguiente formulario - https://forms.gle/oeXF27nXgr6WqNCh6
 
 Gracias :) @mindcrypt
 
