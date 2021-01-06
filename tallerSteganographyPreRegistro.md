@@ -2,9 +2,8 @@
 
 Descripción
 
-En la última década mi conocimiento y experiencia en la disciplina de la ocultación de información digital se ha reflejado en múltiples escenarios (libros técnicos, herramientas software,
-artículos científicos, formaciones, participación en medios de comunicación, etc.). Dado el auge de su uso en el campo de la ciberseguridad en áreas tan variadas como el stegomalware o la evasión de medidas
-de seguridad perimetral, veo de interés desarrollar una formación concentrada que permita a los alumnos introducir y avanzar en esta disciplina con un enfoque práctico.
+En la última década, mi conocimiento y experiencia en la disciplina de la ocultación de información digital se ha reflejado en múltiples escenarios (libros técnicos, herramientas software,
+artículos científicos, formaciones, participación en medios de comunicación, etc.). Dado el auge de su uso en el campo de la ciberseguridad en áreas tan variadas como el stegomalware o la evasión de medidas de seguridad perimetral, veo de interés desarrollar una formación concentrada que permita a los alumnos introducir y avanzar en esta disciplina con un enfoque práctico.
 
 ¿A quién va destinado?
 - A cualquier perfil relacionado con la ciberseguridad, administración de sistemas y sistemas operativos.
