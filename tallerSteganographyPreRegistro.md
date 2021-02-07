@@ -12,7 +12,7 @@ En la última década, mi conocimiento y experiencia en la disciplina de la ocul
 - Perfiles técnicos centrados en la protección de datos y comunicaciones
 - ...
 
-# Formación:
+# Formación
 - No se requieren conocimientos previos para la realización de esta formación
 - 8 horas de formación online (Webex)
 - Fecha y Horario de impartición: Viernes 12 Marzo (16:00-20:00) y Sábado 13 Marzo (10:00 a 14:00) hora española.
@@ -20,10 +20,10 @@ En la última década, mi conocimiento y experiencia en la disciplina de la ocul
 - Canal de telegram de alumnos
 - Documentación del curso y "paquete" de herramientas.
 
-# Fecha y condiciones: 
+# Fecha y condiciones
 - Para su impartición será necesario un mínimo de 12 alumnos
 
-# Sobre el autor:
+# Sobre el autor
 
 Dr. Alfonso Muñoz es un especialistas en ciberseguridad de amplia experiencia en seguridad ofensiva, protección de comunicaciones digitales (criptografía y esteganografía) e investigación avanzada que ha sido premiado y reconocido por su trabajo, investigaciones y publicaciones, recientemente galardonado en el TOP 50 Blue Team Ciberseguridad en España por IDG Research (ComputerWorld). Un breve resumen puede verse a continuación (https://www.linkedin.com/in/alfonsomuñoz/): 
 
