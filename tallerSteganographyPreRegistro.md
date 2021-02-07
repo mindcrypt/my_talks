@@ -50,7 +50,7 @@ Esteganografía aplicada y canales encubiertos (covert channels). Protegiendo y 
 9. Esteganografía en Internet y redes sociales (30 min)
 10. Esteganografía y malware. Stegomalware y polyglots (1h)
 
-* Durante el taller se realizará diversas demos. Se reserva 1h adicional para tener margen en la elaboración de demos y su replicación por parte de los alumnos.
+* Durante el taller se realizarán diversas demos. Se reserva 1h adicional para tener margen en la elaboración de demos y su replicación por parte de los alumnos.
 
 Si estás interesad@ en el registro o tiene cualquier duda contacte con alfonso@criptored.com
 
