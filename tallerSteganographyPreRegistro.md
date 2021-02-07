@@ -25,7 +25,7 @@ En la última década, mi conocimiento y experiencia en la disciplina de la ocul
 
 # Sobre el autor
 
-Dr. Alfonso Muñoz es un especialistas en ciberseguridad de amplia experiencia en seguridad ofensiva, protección de comunicaciones digitales (criptografía y esteganografía) e investigación avanzada que ha sido premiado y reconocido por su trabajo, investigaciones y publicaciones, recientemente galardonado en el TOP 50 Blue Team Ciberseguridad en España por IDG Research (ComputerWorld). Un breve resumen puede verse a continuación (https://www.linkedin.com/in/alfonsomuñoz/): 
+Dr. Alfonso Muñoz es un especialista en ciberseguridad de amplia experiencia en seguridad ofensiva, protección de comunicaciones digitales (criptografía y esteganografía) e investigación avanzada que ha sido premiado y reconocido por su trabajo, investigaciones y publicaciones, recientemente galardonado en el TOP 50 Blue Team Ciberseguridad en España por IDG Research (ComputerWorld). Un breve resumen puede verse a continuación (https://www.linkedin.com/in/alfonsomuñoz/): 
 
 ```
 PhD in Telecommunications Engineering by Technical University of Madrid (UPM) and postdoc researcher in network security by Universidad Carlos III de Madrid (UC3M).
